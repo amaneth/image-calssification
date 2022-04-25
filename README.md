@@ -1,5 +1,5 @@
 # Problem understanding: Cat vs. Classifier #
-In this toy project, we aim to build a deep learning clssifier that predicts whether an image is cat or not. </br>
+In this toy project, I aim to build a deep learning clssifier that predicts whether an image is cat or not. </br>
 
 <!-- <img src="images/cat.0.jpg" align="center">
 <img src="images/dog.0.jpg" align="right"> -->
@@ -15,7 +15,7 @@ In this toy project, we aim to build a deep learning clssifier that predicts whe
 Refer to this [link](https://www.kaggle.com/competitions/dogs-vs-cats/data) to get the data.
 
 # Run the project #
-In this project, we have two steps: training and predicting. In the predict step, you can upload any image from your laptop and predict it. Let's show you how to run the project.
+In this project, I have two steps: training and predicting. In the predict step, you can upload any image from your laptop and predict it. Let's show you how to run the project.
 
 If you do not have venv package, please refer to this [link](https://linuxize.com/post/how-to-create-python-virtual-environments-on-ubuntu-18-04/)
 </br>

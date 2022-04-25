@@ -54,4 +54,4 @@ criterion= nn.BCELoss()
 optimizer = torch.optim.SGD(model.parameters(), lr=args.lr, weight_decay=args.wd)
 model_trained, percent, val_loss, val_acc, train_loss, train_acc= train(model, criterion, train_loader, val_loader, optimizer, num_epochs, device)
 
-plot(train_loss, val_loss)
+plot(train_loss, val_loss, model_name)
